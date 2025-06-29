@@ -1,0 +1,16 @@
+{
+  "name": "rtsh",
+  "version": "0.0.1",
+  "description": "The Discord bot for the return true; server. Handles onboarding and has lots of nifty customizations for the member experience.",
+  "keywords": [
+    "discordbot",
+    "returntrue"
+  ],
+  "license": "ISC",
+  "author": "Galactum",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
